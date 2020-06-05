@@ -1,6 +1,6 @@
 # Patch_Date_Time
-This code allows the construction of a tool that can modify the system dates.
+This tool allows the construction of a tool that can modify the system dates.
 
 # Usage
 
-Change the time and date your system.
+You just have to choose the time and data you want to enter.
